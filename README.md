@@ -1,4 +1,4 @@
-# 🛠 JS version - guess number game
+# 🛠 JS - modal window
 
 # 🔗 [Live Preview](https://creative-daifuku-c344f6.netlify.app/)
 ![Design preview](./preview.gif)
